@@ -1,29 +1,335 @@
 [
   {
-    "title": "Rasasi Hawas Viper EDP 100ml",
-    "price": "₦76,000",
-    "description": "Hawas Viper by Rasasi is a bold and energetic fragrance featuring fresh citrus notes blended with spicy accords and a smooth woody base, delivering a vibrant and confident scent.",
-    "category": "Men",
-    "brand": "Rasasi",
-    "tags": "rasasi hawas viper, men perfume nigeria, fresh spicy fragrance, woody scent",
-    "image": ""
-  },
-  {
-    "title": "Rasasi Hawas Lava Gold EDP 100ml",
-    "price": "₦76,000",
-    "description": "Hawas Lava Gold by Rasasi is a warm and luxurious fragrance combining rich sweetness with spicy and woody undertones for a captivating and long-lasting presence.",
-    "category": "Men",
-    "brand": "Rasasi",
-    "tags": "rasasi hawas lava gold, luxury men fragrance nigeria, warm spicy scent, bold perfume",
-    "image": ""
-  },
-  {
-    "title": "Reef Princess Gift Set",
-    "price": "₦175,000",
-    "description": "Princess Reef Set includes: Princess Reef Perfume 100ml, Princess Reef Mini Perfume 15ml (perfect for handbag), Princess Reef Glitter Perfume 50ml, and an elegant Princess Reef pouch/bag.",
+    "title": "Surrati Good Girl Perfume Oil 100ml",
+    "price": "₦36,000",
+    "description": "A rich and feminine perfume oil inspired by modern floral and sweet accords, offering a smooth, long-lasting scent with an elegant and confident character.",
     "category": "Women",
-    "brand": "Reef",
-    "tags": "reef princess gift set, women perfume set nigeria, sweet floral fragrance, gift set",
+    "brand": "Surrati",
+    "tags": "surrati good girl perfume oil, women perfume oil nigeria, floral sweet fragrance, long lasting scent",
+    "image": ""
+  },
+  {
+    "title": "Taj Sunset Perfume Oil 100ml",
+    "price": "₦36,000",
+    "description": "A warm and inviting perfume oil featuring fruity and floral nuances blended with soft sweetness, creating a vibrant and uplifting fragrance experience.",
+    "category": "Women",
+    "brand": "Taj",
+    "tags": "taj sunset perfume oil, fruity floral perfume oil, women fragrance nigeria, sweet scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Greed Perfume Oil 100ml",
+    "price": "₦42,000",
+    "description": "A luxurious perfume oil with rich sweet notes balanced by warm woody undertones, delivering a bold and sophisticated fragrance profile.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati greed perfume oil, luxury perfume oil nigeria, sweet woody fragrance, unisex scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Eternity Perfume Oil 100ml",
+    "price": "₦43,000",
+    "description": "A timeless perfume oil combining fresh accords with soft florals and warm musky notes for an elegant everyday fragrance.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati eternity perfume oil, fresh musky fragrance, unisex perfume oil nigeria, elegant scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Fehranheit Perfume Oil 100ml",
+    "price": "₦38,000",
+    "description": "A bold perfume oil featuring warm spicy notes, aromatic accents, and woody depth, creating a masculine and distinctive scent.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati fehranheit perfume oil, men fragrance nigeria, spicy woody perfume oil, masculine scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Marbit Man Perfume Oil 100ml",
+    "price": "₦39,000",
+    "description": "A refined masculine perfume oil with fresh aromatic notes and woody undertones, suitable for both daily wear and special occasions.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati marbit man perfume oil, men perfume oil nigeria, aromatic woody fragrance, masculine scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Chanse Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A sophisticated perfume oil blending fresh citrus notes with soft florals and elegant woody accords for a versatile fragrance experience.",
+    "category": "Women",
+    "brand": "Surrati",
+    "tags": "surrati chanse perfume oil, floral citrus fragrance, women perfume oil nigeria, elegant scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Madam Coko Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A luxurious perfume oil featuring warm florals, smooth sweetness, and soft musky undertones for a feminine and refined aroma.",
+    "category": "Women",
+    "brand": "Surrati",
+    "tags": "surrati madam coko perfume oil, women fragrance nigeria, floral musky scent, luxury perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Boss Edition Perfume Oil 100ml",
+    "price": "₦34,000",
+    "description": "A confident and modern perfume oil with fresh aromatic notes and woody accords, designed for a sophisticated masculine presence.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati boss edition perfume oil, men fragrance nigeria, aromatic woody scent, masculine perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Amirage Perfume Oil 100ml",
+    "price": "₦50,000",
+    "description": "A luxurious perfume oil blending rich florals with warm woody and musky notes, creating an elegant and long-lasting fragrance.",
+    "category": "Women",
+    "brand": "Surrati",
+    "tags": "surrati amirage perfume oil, luxury women fragrance, floral woody scent, perfume oil nigeria",
+    "image": ""
+  },
+  {
+    "title": "Surrati CK-1 Perfume Oil 100ml",
+    "price": "₦34,000",
+    "description": "A fresh and clean perfume oil featuring citrus, green, and musky accords, making it a versatile fragrance for everyday wear.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati ck-1 perfume oil, fresh unisex fragrance, citrus perfume oil nigeria, everyday scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Desire Perfume Oil 100ml",
+    "price": "₦34,000",
+    "description": "A captivating perfume oil with sweet fruity notes, soft florals, and warm undertones that create an inviting fragrance experience.",
+    "category": "Women",
+    "brand": "Surrati",
+    "tags": "surrati desire perfume oil, sweet floral fragrance, women perfume oil nigeria, feminine scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati E-collection Perfume Oil 100ml",
+    "price": "₦34,000",
+    "description": "A versatile perfume oil featuring a balanced blend of fresh, floral, and musky notes for a smooth and pleasant fragrance profile.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati e-collection perfume oil, unisex fragrance nigeria, fresh musky scent, perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Cinema Perfume Oil 100ml",
+    "price": "₦40,000",
+    "description": "An elegant perfume oil combining floral richness with warm sweet notes and soft woody accords for a glamorous scent experience.",
+    "category": "Women",
+    "brand": "Surrati",
+    "tags": "surrati cinema perfume oil, floral sweet fragrance, women perfume oil nigeria, elegant scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Golden Sand Perfume Oil 100ml",
+    "price": "₦36,000",
+    "description": "A warm and comforting perfume oil featuring sweet vanilla nuances, amber accords, and soft musk for a rich and inviting aroma.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati golden sand perfume oil, vanilla amber fragrance, unisex perfume oil nigeria, warm scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Black XXS Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A bold perfume oil with fresh fruity notes, aromatic accords, and woody depth, delivering a modern and energetic fragrance.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati black xxs perfume oil, men fragrance nigeria, woody aromatic scent, perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Gevenchy Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A refined perfume oil featuring elegant floral notes blended with soft sweetness and warm undertones for a sophisticated scent.",
+    "category": "Women",
+    "brand": "Surrati",
+    "tags": "surrati gevenchy perfume oil, women fragrance nigeria, floral elegant scent, perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Tom Tuscan Leather Perfume Oil 100ml",
+    "price": "₦50,000",
+    "description": "A luxurious perfume oil showcasing rich leather accords enhanced by smoky, woody, and warm spicy notes for a bold statement fragrance.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati tom tuscan leather perfume oil, leather fragrance nigeria, men perfume oil, smoky woody scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Black Orchid Perfume Oil 100ml",
+    "price": "₦44,000",
+    "description": "A luxurious perfume oil featuring rich floral notes blended with dark sweetness, warm spices, and smooth woody undertones for a bold and sophisticated scent.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati black orchid perfume oil, luxury perfume oil nigeria, floral woody fragrance, unisex scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Gentlemen Only Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A refined masculine perfume oil combining fresh aromatic accords with woody and spicy notes for a clean and elegant fragrance experience.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati gentlemen only perfume oil, men fragrance nigeria, aromatic woody scent, masculine perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Legend Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A fresh and versatile perfume oil with aromatic notes, subtle sweetness, and woody undertones that create a confident everyday scent.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati legend perfume oil, men perfume oil nigeria, aromatic fragrance, everyday masculine scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Avintus Kreed Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A bold perfume oil featuring fruity freshness balanced with smoky woods and musk, delivering a powerful and distinguished fragrance profile.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati avintus kreed perfume oil, men fragrance nigeria, fruity woody scent, luxury perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Derre T’merhes Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A rich perfume oil blending warm spices, woody notes, and soft sweetness to create a sophisticated and long-lasting fragrance.",
+    "category": "Unisex",
+    "brand": "Derre",
+    "tags": "derre tmerhes perfume oil, unisex fragrance nigeria, spicy woody scent, perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Olympiana Perfume Oil 100ml",
+    "price": "₦36,000",
+    "description": "A feminine perfume oil featuring sweet floral accords with warm vanilla undertones, creating an elegant and captivating scent.",
+    "category": "Women",
+    "brand": "Surrati",
+    "tags": "surrati olympiana perfume oil, women fragrance nigeria, floral vanilla scent, perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Sawvage Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A fresh and powerful perfume oil combining citrus freshness with spicy and woody notes for a bold masculine fragrance.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati sawvage perfume oil, men perfume oil nigeria, fresh woody fragrance, masculine scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Shay Oud Perfume Oil 100ml",
+    "price": "₦50,000",
+    "description": "A luxurious oud-based perfume oil featuring rich woody depth, warm spices, and smooth amber nuances for a premium fragrance experience.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati shay oud perfume oil, oud fragrance nigeria, luxury perfume oil, woody amber scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Woody Oud Perfume Oil 100ml",
+    "price": "₦43,000",
+    "description": "A rich perfume oil centered around deep oud and woody accords, enhanced by warm spices and subtle sweetness for lasting elegance.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati woody oud perfume oil, oud perfume oil nigeria, woody fragrance, unisex scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Rakan Perfume Oil 100ml",
+    "price": "₦36,000",
+    "description": "A sophisticated perfume oil blending aromatic freshness with woody and musky notes, offering a balanced and versatile fragrance profile.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati rakan perfume oil, men fragrance nigeria, woody musky scent, perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati 121 VIP Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A vibrant perfume oil featuring fresh citrus notes, aromatic accords, and warm woody undertones for a stylish and energetic fragrance experience.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati 121 vip perfume oil, men fragrance nigeria, fresh woody scent, luxury perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Issey Meyake Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A refreshing perfume oil blending aquatic freshness with citrus and woody accords, creating a clean and elegant everyday fragrance.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati issey meyake perfume oil, aquatic fragrance nigeria, men perfume oil, fresh scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Ameer Al Oud Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A rich and luxurious perfume oil featuring deep oud, warm amber, and smoky woody notes for a bold and long-lasting fragrance.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati ameer al oud perfume oil, oud fragrance nigeria, woody amber scent, unisex perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Bakarat Rouge Perfume Oil 100ml",
+    "price": "₦40,000",
+    "description": "A sophisticated perfume oil with airy sweetness, amber accords, and soft woody notes that create an elegant and highly addictive scent.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati bakarat rouge perfume oil, luxury perfume oil nigeria, amber woody fragrance, unisex scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Oud Paco Rebanne Perfume Oil",
+    "price": "₦36,000",
+    "description": "A bold perfume oil combining rich oud notes with spicy and woody accords, delivering a powerful and distinctive fragrance profile.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati oud paco rebanne perfume oil, oud fragrance nigeria, men perfume oil, woody spicy scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Cherry Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A sweet and playful perfume oil featuring juicy cherry accords blended with soft florals and warm undertones for a captivating scent.",
+    "category": "Women",
+    "brand": "Surrati",
+    "tags": "surrati cherry perfume oil, cherry fragrance nigeria, women perfume oil, sweet fruity scent",
+    "image": ""
+  },
+  {
+    "title": "Surrati Bwlgari Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "An elegant perfume oil featuring fresh citrus notes, refined florals, and warm woody undertones for a sophisticated fragrance experience.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati bwlgari perfume oil, luxury fragrance nigeria, fresh woody scent, unisex perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Herrera Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A modern perfume oil blending fresh aromatic notes with smooth sweetness and woody depth, creating a versatile and refined scent.",
+    "category": "Men",
+    "brand": "Surrati",
+    "tags": "surrati herrera perfume oil, men fragrance nigeria, aromatic woody scent, perfume oil",
+    "image": ""
+  },
+  {
+    "title": "Surrati Oud Interlode Perfume Oil 100ml",
+    "price": "₦35,000",
+    "description": "A luxurious perfume oil showcasing smoky oud, rich resins, and warm spices, delivering an intense and memorable fragrance experience.",
+    "category": "Unisex",
+    "brand": "Surrati",
+    "tags": "surrati oud interlode perfume oil, oud fragrance nigeria, smoky woody scent, luxury perfume oil",
     "image": ""
   }
 ]
