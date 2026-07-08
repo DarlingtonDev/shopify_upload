@@ -1,155 +1,119 @@
 [
   {
-    "title": "Dandyism Prestigious EDP 100ml",
-    "price": "₦56,000",
-    "description": "Dandyism Prestigious is a refined fragrance with an elegant blend of fresh, woody, and warm notes, offering a sophisticated scent for everyday wear and special occasions.",
-    "category": "Men",
-    "brand": "Dandyism",
-    "tags": "dandyism prestigious, dandyism perfume nigeria, men fragrance, woody aromatic perfume",
-    "image": ""
-  },
-  {
-    "title": "Dandyism Elegance EDP 100ml",
-    "price": "₦56,000",
-    "description": "Dandyism Elegance delivers a smooth composition of fresh and woody accords with a polished finish, making it ideal for modern, confident wear.",
-    "category": "Men",
-    "brand": "Dandyism",
-    "tags": "dandyism elegance, elegant men perfume, dandyism nigeria, woody fragrance",
-    "image": ""
-  },
-  {
-    "title": "Dandyism Old Money EDP 100ml",
-    "price": "₦56,000",
-    "description": "Dandyism Old Money is a luxurious fragrance featuring rich woody, aromatic, and refined notes inspired by timeless sophistication.",
-    "category": "Men",
-    "brand": "Dandyism",
-    "tags": "dandyism old money, luxury men perfume, woody fragrance nigeria, premium scent",
-    "image": ""
-  },
-  {
-    "title": "Montale Cedrat Lova 100ml",
-    "price": "₦140,000",
-    "description": "Montale Cedrat Lova is a vibrant fragrance with sparkling citrus notes balanced by soft florals and warm woods for a fresh yet elegant finish.",
+    "title": "Gulf Orchid Silver Elixir EDP 100ml",
+    "price": "₦39,000",
+    "description": "Silver Elixir by Gulf Orchid is a refined fragrance blending fresh citrus, aromatic spices, and smooth woody notes for a clean yet sophisticated scent.",
     "category": "Unisex",
-    "brand": "Montale",
-    "tags": "montale cedrat lova, citrus perfume, unisex fragrance nigeria, fresh woody scent",
+    "brand": "Gulf Orchid",
+    "tags": "gulf orchid silver elixir, silver elixir perfume nigeria, fresh woody fragrance, unisex perfume",
     "image": ""
   },
   {
-    "title": "Lacoste Match Point EDP 100ml",
-    "price": "₦98,000",
-    "description": "Lacoste Match Point Eau de Parfum combines fresh citrus, aromatic herbs, and woody notes to create a dynamic and energetic masculine fragrance.",
-    "category": "Men",
-    "brand": "Lacoste",
-    "tags": "lacoste match point edp, men perfume nigeria, fresh woody fragrance, sporty scent",
-    "image": ""
-  },
-  {
-    "title": "Nishane Favonius EDP 100ml",
-    "price": "₦440,000",
-    "description": "Nishane Favonius is a luxurious niche fragrance with an opulent blend of florals, woods, and warm resinous accords that leave a rich, elegant trail.",
+    "title": "Maison Asrar Milky Way EDP 100ml",
+    "price": "₦49,000",
+    "description": "Milky Way by Maison Asrar is a creamy gourmand fragrance featuring sweet vanilla, soft milky accords, and warm musk for a comforting scent experience.",
     "category": "Unisex",
-    "brand": "Nishane",
-    "tags": "nishane favonius, niche perfume nigeria, luxury fragrance, woody floral scent",
+    "brand": "Maison Asrar",
+    "tags": "maison asrar milky way, milky way perfume nigeria, creamy gourmand fragrance, vanilla musk perfume",
     "image": ""
   },
   {
-    "title": "Montale Arabians Musk EDP 100ml",
-    "price": "₦140,000",
-    "description": "Montale Arabians Musk combines creamy musk, soft florals, and rich oriental nuances for a smooth and long-lasting fragrance experience.",
-    "category": "Unisex",
-    "brand": "Montale",
-    "tags": "montale arabians musk, musk perfume nigeria, oriental fragrance, luxury unisex scent",
-    "image": ""
-  },
-  {
-    "title": "Montblac Vetiver Glacier EDP 125ml",
-    "price": "₦194,000",
-    "description": "Montblac Vetiver Glacier is a fresh and invigorating fragrance built around crisp vetiver, aromatic herbs, and woody accords for modern elegance.",
-    "category": "Men",
-    "brand": "Montblac",
-    "tags": "montblac vetiver glacier, vetiver perfume nigeria, men fragrance, fresh woody scent",
-    "image": ""
-  },
-  {
-    "title": "Guerlain Aqua Allegoria Rosa Rossa EDP",
-    "price": "₦182,000",
-    "description": "Guerlain Aqua Allegoria Rosa Rossa is a radiant floral fragrance highlighting vibrant rose petals blended with juicy fruits and delicate freshness.",
+    "title": "Gulf Orchid Sunset Kiss EDP 100ml",
+    "price": "₦28,000",
+    "description": "Sunset Kiss by Gulf Orchid is a vibrant fruity-floral fragrance with soft sweetness and warm undertones, perfect for everyday wear.",
     "category": "Women",
-    "brand": "Guerlain",
-    "tags": "guerlain rosa rossa, aqua allegoria nigeria, rose perfume, floral women fragrance",
+    "brand": "Gulf Orchid",
+    "tags": "gulf orchid sunset kiss, sunset kiss perfume nigeria, fruity floral fragrance, women perfume",
     "image": ""
   },
   {
-    "title": "Azzaro Wanted Tonic EDT 100ml For Men",
-    "price": "₦120,000",
-    "description": "Azzaro Wanted Tonic is a refreshing men's fragrance featuring crisp citrus, spicy ginger, and woody notes for an energetic everyday scent.",
+    "title": "Gulf Orchid Pink Marshmallow EDP 100ml",
+    "price": "₦30,000",
+    "description": "Pink Marshmallow by Gulf Orchid is a playful gourmand fragrance filled with fluffy marshmallow sweetness, soft florals, and creamy vanilla.",
+    "category": "Women",
+    "brand": "Gulf Orchid",
+    "tags": "gulf orchid pink marshmallow, pink marshmallow perfume nigeria, sweet gourmand fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Maison Asrar Love Key EDP 100ml",
+    "price": "₦36,000",
+    "description": "Love Key by Maison Asrar is a romantic fragrance blending delicate florals with sweet fruity notes and a soft musky finish.",
+    "category": "Women",
+    "brand": "Maison Asrar",
+    "tags": "maison asrar love key, love key perfume nigeria, floral fruity fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Maison Asrar Vanilla Voyage EDP 25ml",
+    "price": "₦15,000",
+    "description": "Vanilla Voyage by Maison Asrar is a rich vanilla fragrance with creamy sweetness and warm amber notes in a convenient travel-size bottle.",
+    "category": "Unisex",
+    "brand": "Maison Asrar",
+    "tags": "maison asrar vanilla voyage, vanilla voyage perfume nigeria, vanilla fragrance, travel perfume",
+    "image": ""
+  },
+  {
+    "title": "Riiffs Tahira Extrait 100ml",
+    "price": "₦44,000",
+    "description": "Tahira by Riiffs is a luxurious extrait fragrance featuring elegant florals, smooth sweetness, and long-lasting woody depth.",
+    "category": "Women",
+    "brand": "Riiffs",
+    "tags": "riiffs tahira, tahira extrait nigeria, floral luxury perfume, women fragrance",
+    "image": ""
+  },
+  {
+    "title": "Riiffs Elyssia Scarlet Extrait 100ml",
+    "price": "₦44,000",
+    "description": "Elyssia Scarlet by Riiffs is a bold extrait fragrance combining juicy fruits, rich florals, and warm amber for a captivating scent.",
+    "category": "Women",
+    "brand": "Riiffs",
+    "tags": "riiffs elyssia scarlet, scarlet extrait nigeria, fruity floral perfume, women fragrance",
+    "image": ""
+  },
+  {
+    "title": "Riiffs Elyssia Aura Extrait 100ml",
+    "price": "₦44,000",
+    "description": "Elyssia Aura by Riiffs is a graceful extrait fragrance with luminous floral notes, soft musk, and a smooth elegant finish.",
+    "category": "Women",
+    "brand": "Riiffs",
+    "tags": "riiffs elyssia aura, aura extrait nigeria, floral musk perfume, elegant women fragrance",
+    "image": ""
+  },
+  {
+    "title": "Riiffs Fareed EDP 100ml",
+    "price": "₦37,000",
+    "description": "Fareed by Riiffs is a refined fragrance featuring fresh spices, warm woods, and subtle sweetness for versatile everyday wear.",
     "category": "Men",
-    "brand": "Azzaro",
-    "tags": "azzaro wanted tonic, men edt nigeria, fresh citrus fragrance, woody perfume",
+    "brand": "Riiffs",
+    "tags": "riiffs fareed, fareed perfume nigeria, woody spicy fragrance, men perfume",
     "image": ""
   },
   {
-    "title": "Chloe L’Eau De Parfum 100ml",
-    "price": "₦210,000",
-    "description": "Chloe L’Eau De Parfum is an elegant floral fragrance with fresh rose, soft florals, and clean musky undertones for timeless femininity.",
-    "category": "Women",
-    "brand": "Chloe",
-    "tags": "chloe l'eau de parfum, women perfume nigeria, floral fragrance, rose perfume",
-    "image": ""
-  },
-  {
-    "title": "Ferragamo Fiamma EDP",
-    "price": "₦159,000",
-    "description": "Ferragamo Fiamma is a graceful fragrance blending radiant florals with warm woody notes, creating a refined and sophisticated scent.",
-    "category": "Women",
-    "brand": "Ferragamo",
-    "tags": "ferragamo fiamma, women perfume nigeria, floral woody fragrance, elegant scent",
-    "image": ""
-  },
-  {
-    "title": "Montale Fantastic Oud EDP 100ml",
-    "price": "₦140,000",
-    "description": "Montale Fantastic Oud showcases rich oud, warm spices, and precious woods for a bold, luxurious fragrance with excellent longevity.",
+    "title": "Riiffs Taif Extrait 100ml",
+    "price": "₦44,000",
+    "description": "Taif by Riiffs is a luxurious extrait fragrance highlighting elegant rose accords blended with warm woods and soft amber.",
     "category": "Unisex",
-    "brand": "Montale",
-    "tags": "montale fantastic oud, oud perfume nigeria, luxury fragrance, woody oriental scent",
+    "brand": "Riiffs",
+    "tags": "riiffs taif, taif extrait nigeria, rose oud fragrance, unisex perfume",
     "image": ""
   },
   {
-    "title": "Montale Oud Tobacco EDP 100ml",
-    "price": "₦140,000",
-    "description": "Montale Oud Tobacco blends smoky tobacco, rich oud, and warm spices into a deep and captivating fragrance suitable for evening wear.",
-    "category": "Unisex",
-    "brand": "Montale",
-    "tags": "montale oud tobacco, tobacco oud perfume, unisex fragrance nigeria, oriental scent",
-    "image": ""
-  },
-  {
-    "title": "Veritas Anima EDP 100ml",
-    "price": "₦64,000",
-    "description": "Veritas Anima is a refined fragrance combining fresh, woody, and aromatic accords to deliver a versatile scent with lasting elegance.",
-    "category": "Unisex",
-    "brand": "Veritas",
-    "tags": "veritas anima, veritas perfume nigeria, unisex fragrance, woody aromatic scent",
-    "image": ""
-  },
-  {
-    "title": "Dandyism Debonair EDP 100ml",
-    "price": "₦56,000",
-    "description": "Dandyism Debonair is a polished fragrance with sophisticated woody and aromatic notes designed for confident everyday wear.",
-    "category": "Men",
-    "brand": "Dandyism",
-    "tags": "dandyism debonair, men perfume nigeria, woody fragrance, elegant scent",
-    "image": ""
-  },
-  {
-    "title": "Armaf Odyssey Candee",
-    "price": "₦45,000",
-    "description": "Armaf Odyssey Candee is a playful gourmand fragrance featuring sweet fruity notes blended with creamy vanilla for a fun and long-lasting scent.",
+    "title": "Riiffs Elyssia Zenith EDP 100ml",
+    "price": "₦44,000",
+    "description": "Elyssia Zenith by Riiffs is a modern fragrance with sparkling citrus, soft florals, and warm woody notes for an uplifting scent.",
     "category": "Women",
-    "brand": "Armaf",
-    "tags": "armaf odyssey candee, gourmand perfume nigeria, sweet women fragrance, vanilla fruity scent",
+    "brand": "Riiffs",
+    "tags": "riiffs elyssia zenith, zenith perfume nigeria, citrus floral fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Faan Qasida Sahm 200ml",
+    "price": "₦99,000",
+    "description": "Qasida Sahm by Faan is a premium fragrance with rich oriental accords, warm spices, and deep woody notes presented in a generous 200ml bottle.",
+    "category": "Unisex",
+    "brand": "Faan",
+    "tags": "faan qasida sahm, qasida sahm nigeria, oriental fragrance, luxury unisex perfume",
     "image": ""
   }
 ]
