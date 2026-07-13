@@ -1,119 +1,47 @@
 [
   {
-    "title": "Gulf Orchid Silver Elixir EDP 100ml",
-    "price": "₦39,000",
-    "description": "Silver Elixir by Gulf Orchid is a refined fragrance blending fresh citrus, aromatic spices, and smooth woody notes for a clean yet sophisticated scent.",
+    "title": "Mancera Mochi Musk 120ml",
+    "price": "₦123,000",
+    "description": "Mochi Musk by Mancera is a soft gourmand fragrance blending creamy sweetness with delicate musk, creating a comforting and modern scent with impressive longevity.",
     "category": "Unisex",
-    "brand": "Gulf Orchid",
-    "tags": "gulf orchid silver elixir, silver elixir perfume nigeria, fresh woody fragrance, unisex perfume",
+    "brand": "Mancera",
+    "tags": "mancera mochi musk, mochi musk nigeria, gourmand musk perfume, unisex fragrance",
     "image": ""
   },
   {
-    "title": "Maison Asrar Milky Way EDP 100ml",
-    "price": "₦49,000",
-    "description": "Milky Way by Maison Asrar is a creamy gourmand fragrance featuring sweet vanilla, soft milky accords, and warm musk for a comforting scent experience.",
-    "category": "Unisex",
-    "brand": "Maison Asrar",
-    "tags": "maison asrar milky way, milky way perfume nigeria, creamy gourmand fragrance, vanilla musk perfume",
-    "image": ""
-  },
-  {
-    "title": "Gulf Orchid Sunset Kiss EDP 100ml",
-    "price": "₦28,000",
-    "description": "Sunset Kiss by Gulf Orchid is a vibrant fruity-floral fragrance with soft sweetness and warm undertones, perfect for everyday wear.",
+    "title": "Giorgio Armani Si Nude Bloom 100ml",
+    "price": "₦235,000",
+    "description": "Si Nude Bloom by Giorgio Armani is an elegant floral fragrance featuring soft blossoms, smooth musk, and refined woody notes for a graceful everyday scent.",
     "category": "Women",
-    "brand": "Gulf Orchid",
-    "tags": "gulf orchid sunset kiss, sunset kiss perfume nigeria, fruity floral fragrance, women perfume",
+    "brand": "Giorgio Armani",
+    "tags": "giorgio armani si nude bloom, si nude bloom nigeria, floral women perfume, luxury fragrance",
     "image": ""
   },
   {
-    "title": "Gulf Orchid Pink Marshmallow EDP 100ml",
-    "price": "₦30,000",
-    "description": "Pink Marshmallow by Gulf Orchid is a playful gourmand fragrance filled with fluffy marshmallow sweetness, soft florals, and creamy vanilla.",
+    "title": "Giorgio Armani Si Passione Red Bloom 100ml",
+    "price": "₦235,000",
+    "description": "Si Passione Red Bloom by Giorgio Armani is a vibrant floral fragrance combining bright fruity accords with elegant flowers and a warm sensual finish.",
     "category": "Women",
-    "brand": "Gulf Orchid",
-    "tags": "gulf orchid pink marshmallow, pink marshmallow perfume nigeria, sweet gourmand fragrance, women perfume",
+    "brand": "Giorgio Armani",
+    "tags": "giorgio armani si passione red bloom, si passione red bloom nigeria, floral fruity perfume, women fragrance",
     "image": ""
   },
   {
-    "title": "Maison Asrar Love Key EDP 100ml",
-    "price": "₦36,000",
-    "description": "Love Key by Maison Asrar is a romantic fragrance blending delicate florals with sweet fruity notes and a soft musky finish.",
-    "category": "Women",
-    "brand": "Maison Asrar",
-    "tags": "maison asrar love key, love key perfume nigeria, floral fruity fragrance, women perfume",
-    "image": ""
-  },
-  {
-    "title": "Maison Asrar Vanilla Voyage EDP 25ml",
-    "price": "₦15,000",
-    "description": "Vanilla Voyage by Maison Asrar is a rich vanilla fragrance with creamy sweetness and warm amber notes in a convenient travel-size bottle.",
-    "category": "Unisex",
-    "brand": "Maison Asrar",
-    "tags": "maison asrar vanilla voyage, vanilla voyage perfume nigeria, vanilla fragrance, travel perfume",
-    "image": ""
-  },
-  {
-    "title": "Riiffs Tahira Extrait 100ml",
-    "price": "₦44,000",
-    "description": "Tahira by Riiffs is a luxurious extrait fragrance featuring elegant florals, smooth sweetness, and long-lasting woody depth.",
-    "category": "Women",
-    "brand": "Riiffs",
-    "tags": "riiffs tahira, tahira extrait nigeria, floral luxury perfume, women fragrance",
-    "image": ""
-  },
-  {
-    "title": "Riiffs Elyssia Scarlet Extrait 100ml",
-    "price": "₦44,000",
-    "description": "Elyssia Scarlet by Riiffs is a bold extrait fragrance combining juicy fruits, rich florals, and warm amber for a captivating scent.",
-    "category": "Women",
-    "brand": "Riiffs",
-    "tags": "riiffs elyssia scarlet, scarlet extrait nigeria, fruity floral perfume, women fragrance",
-    "image": ""
-  },
-  {
-    "title": "Riiffs Elyssia Aura Extrait 100ml",
-    "price": "₦44,000",
-    "description": "Elyssia Aura by Riiffs is a graceful extrait fragrance with luminous floral notes, soft musk, and a smooth elegant finish.",
-    "category": "Women",
-    "brand": "Riiffs",
-    "tags": "riiffs elyssia aura, aura extrait nigeria, floral musk perfume, elegant women fragrance",
-    "image": ""
-  },
-  {
-    "title": "Riiffs Fareed EDP 100ml",
-    "price": "₦37,000",
-    "description": "Fareed by Riiffs is a refined fragrance featuring fresh spices, warm woods, and subtle sweetness for versatile everyday wear.",
+    "title": "Azzaro Wanted Forever Elixir Parfum 100ml",
+    "price": "₦205,000",
+    "description": "Wanted Forever Elixir by Azzaro is an intense masculine parfum featuring rich spices, warm woods, and amber accords for a bold and long-lasting signature scent.",
     "category": "Men",
-    "brand": "Riiffs",
-    "tags": "riiffs fareed, fareed perfume nigeria, woody spicy fragrance, men perfume",
+    "brand": "Azzaro",
+    "tags": "azzaro wanted forever elixir, wanted forever elixir nigeria, men parfum, woody spicy fragrance",
     "image": ""
   },
   {
-    "title": "Riiffs Taif Extrait 100ml",
-    "price": "₦44,000",
-    "description": "Taif by Riiffs is a luxurious extrait fragrance highlighting elegant rose accords blended with warm woods and soft amber.",
-    "category": "Unisex",
-    "brand": "Riiffs",
-    "tags": "riiffs taif, taif extrait nigeria, rose oud fragrance, unisex perfume",
-    "image": ""
-  },
-  {
-    "title": "Riiffs Elyssia Zenith EDP 100ml",
-    "price": "₦44,000",
-    "description": "Elyssia Zenith by Riiffs is a modern fragrance with sparkling citrus, soft florals, and warm woody notes for an uplifting scent.",
-    "category": "Women",
-    "brand": "Riiffs",
-    "tags": "riiffs elyssia zenith, zenith perfume nigeria, citrus floral fragrance, women perfume",
-    "image": ""
-  },
-  {
-    "title": "Faan Qasida Sahm 200ml",
-    "price": "₦99,000",
-    "description": "Qasida Sahm by Faan is a premium fragrance with rich oriental accords, warm spices, and deep woody notes presented in a generous 200ml bottle.",
-    "category": "Unisex",
-    "brand": "Faan",
-    "tags": "faan qasida sahm, qasida sahm nigeria, oriental fragrance, luxury unisex perfume",
+    "title": "Burberry Hero Parfum Intense 200ml",
+    "price": "₦290,000",
+    "description": "Hero Parfum Intense by Burberry is a powerful woody fragrance with deep cedarwood, warm amber, and refined spicy notes, crafted for confident everyday wear.",
+    "category": "Men",
+    "brand": "Burberry",
+    "tags": "burberry hero parfum intense, hero parfum intense nigeria, woody men perfume, luxury fragrance",
     "image": ""
   }
 ]
