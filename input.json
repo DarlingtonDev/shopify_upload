@@ -1,47 +1,56 @@
 [
   {
-    "title": "Mancera Mochi Musk 120ml",
-    "price": "₦123,000",
-    "description": "Mochi Musk by Mancera is a soft gourmand fragrance blending creamy sweetness with delicate musk, creating a comforting and modern scent with impressive longevity.",
+    "title": "Lattafa Fahad EDP 80ml",
+    "price": "₦46,000",
+    "description": "Fahad by Lattafa is a refined fragrance featuring fresh aromatic notes, warm spices, and smooth woody accords for a confident and versatile scent.",
+    "category": "Men",
+    "brand": "Lattafa",
+    "tags": "lattafa fahad, fahad perfume nigeria, men fragrance, woody spicy perfume",
+    "image": ""
+  },
+  {
+    "title": "Lattafa Raghad EDP 100ml",
+    "price": "₦51,000",
+    "description": "Raghad by Lattafa is an elegant fragrance blending sweet florals, creamy vanilla, and soft musk for a luxurious and long-lasting scent.",
+    "category": "Women",
+    "brand": "Lattafa",
+    "tags": "lattafa raghad, raghad perfume nigeria, floral vanilla fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Nusuk Mahab EDP 100ml",
+    "price": "₦46,000",
+    "description": "Mahab by Nusuk is a sophisticated fragrance combining fresh citrus, aromatic herbs, and warm woody notes for an elegant everyday scent.",
     "category": "Unisex",
-    "brand": "Mancera",
-    "tags": "mancera mochi musk, mochi musk nigeria, gourmand musk perfume, unisex fragrance",
+    "brand": "Nusuk",
+    "tags": "nusuk mahab, mahab perfume nigeria, fresh woody fragrance, unisex perfume",
     "image": ""
   },
   {
-    "title": "Giorgio Armani Si Nude Bloom 100ml",
-    "price": "₦235,000",
-    "description": "Si Nude Bloom by Giorgio Armani is an elegant floral fragrance featuring soft blossoms, smooth musk, and refined woody notes for a graceful everyday scent.",
-    "category": "Women",
-    "brand": "Giorgio Armani",
-    "tags": "giorgio armani si nude bloom, si nude bloom nigeria, floral women perfume, luxury fragrance",
+    "title": "Nusuk Ateeq Extrait 100ml",
+    "price": "₦51,000",
+    "description": "Ateeq by Nusuk is a rich extrait fragrance featuring luxurious amber, soft spices, and woody accords with impressive depth and longevity.",
+    "category": "Unisex",
+    "brand": "Nusuk",
+    "tags": "nusuk ateeq, ateeq extrait nigeria, amber woody fragrance, luxury perfume",
     "image": ""
   },
   {
-    "title": "Giorgio Armani Si Passione Red Bloom 100ml",
-    "price": "₦235,000",
-    "description": "Si Passione Red Bloom by Giorgio Armani is a vibrant floral fragrance combining bright fruity accords with elegant flowers and a warm sensual finish.",
-    "category": "Women",
-    "brand": "Giorgio Armani",
-    "tags": "giorgio armani si passione red bloom, si passione red bloom nigeria, floral fruity perfume, women fragrance",
-    "image": ""
-  },
-  {
-    "title": "Azzaro Wanted Forever Elixir Parfum 100ml",
-    "price": "₦205,000",
-    "description": "Wanted Forever Elixir by Azzaro is an intense masculine parfum featuring rich spices, warm woods, and amber accords for a bold and long-lasting signature scent.",
+    "title": "Nusuk Gladius Extrait De Parfum 100ml",
+    "price": "₦56,000",
+    "description": "Gladius by Nusuk is a bold extrait de parfum blending warm spices, rich woods, and amber notes for a powerful and long-lasting signature fragrance.",
     "category": "Men",
-    "brand": "Azzaro",
-    "tags": "azzaro wanted forever elixir, wanted forever elixir nigeria, men parfum, woody spicy fragrance",
+    "brand": "Nusuk",
+    "tags": "nusuk gladius, gladius extrait de parfum nigeria, woody spicy fragrance, men perfume",
     "image": ""
   },
   {
-    "title": "Burberry Hero Parfum Intense 200ml",
-    "price": "₦290,000",
-    "description": "Hero Parfum Intense by Burberry is a powerful woody fragrance with deep cedarwood, warm amber, and refined spicy notes, crafted for confident everyday wear.",
-    "category": "Men",
-    "brand": "Burberry",
-    "tags": "burberry hero parfum intense, hero parfum intense nigeria, woody men perfume, luxury fragrance",
+    "title": "Nusuk Safa EDP 100ml",
+    "price": "₦46,000",
+    "description": "Safa by Nusuk is a fresh and elegant fragrance with delicate florals, soft musk, and subtle woody notes, making it suitable for everyday wear.",
+    "category": "Unisex",
+    "brand": "Nusuk",
+    "tags": "nusuk safa, safa perfume nigeria, floral musk fragrance, unisex perfume",
     "image": ""
   }
 ]
