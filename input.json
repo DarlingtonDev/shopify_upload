@@ -1,56 +1,92 @@
 [
   {
-    "title": "Lattafa Fahad EDP 80ml",
-    "price": "₦46,000",
-    "description": "Fahad by Lattafa is a refined fragrance featuring fresh aromatic notes, warm spices, and smooth woody accords for a confident and versatile scent.",
-    "category": "Men",
-    "brand": "Lattafa",
-    "tags": "lattafa fahad, fahad perfume nigeria, men fragrance, woody spicy perfume",
-    "image": ""
-  },
-  {
-    "title": "Lattafa Raghad EDP 100ml",
-    "price": "₦51,000",
-    "description": "Raghad by Lattafa is an elegant fragrance blending sweet florals, creamy vanilla, and soft musk for a luxurious and long-lasting scent.",
+    "title": "Armaf Club de Nuit Woman Extrait de Parfum 70ml",
+    "price": "₦60,000",
+    "description": "Club de Nuit Woman Extrait de Parfum by Armaf is a sophisticated fragrance with fruity, floral, and warm musky notes, creating an elegant scent with impressive longevity.",
     "category": "Women",
-    "brand": "Lattafa",
-    "tags": "lattafa raghad, raghad perfume nigeria, floral vanilla fragrance, women perfume",
+    "brand": "Armaf",
+    "tags": "armaf club de nuit woman extrait, armaf perfume nigeria, women fragrance, floral fruity perfume",
     "image": ""
   },
   {
-    "title": "Nusuk Mahab EDP 100ml",
-    "price": "₦46,000",
-    "description": "Mahab by Nusuk is a sophisticated fragrance combining fresh citrus, aromatic herbs, and warm woody notes for an elegant everyday scent.",
-    "category": "Unisex",
-    "brand": "Nusuk",
-    "tags": "nusuk mahab, mahab perfume nigeria, fresh woody fragrance, unisex perfume",
+    "title": "Armaf Cloud 9 EDP 100ml",
+    "price": "₦43,000",
+    "description": "Cloud 9 by Armaf is a soft and uplifting fragrance featuring fresh fruity accords, delicate florals, and creamy musk for a light and modern finish.",
+    "category": "Women",
+    "brand": "Armaf",
+    "tags": "armaf cloud 9, armaf perfume nigeria, fruity floral fragrance, women perfume",
     "image": ""
   },
   {
-    "title": "Nusuk Ateeq Extrait 100ml",
-    "price": "₦51,000",
-    "description": "Ateeq by Nusuk is a rich extrait fragrance featuring luxurious amber, soft spices, and woody accords with impressive depth and longevity.",
-    "category": "Unisex",
-    "brand": "Nusuk",
-    "tags": "nusuk ateeq, ateeq extrait nigeria, amber woody fragrance, luxury perfume",
-    "image": ""
-  },
-  {
-    "title": "Nusuk Gladius Extrait De Parfum 100ml",
-    "price": "₦56,000",
-    "description": "Gladius by Nusuk is a bold extrait de parfum blending warm spices, rich woods, and amber notes for a powerful and long-lasting signature fragrance.",
+    "title": "Armaf Cool Ace EDP 100ml",
+    "price": "₦43,000",
+    "description": "Cool Ace by Armaf is a refreshing fragrance that blends citrus, aromatic herbs, and woody notes for a clean and confident everyday scent.",
     "category": "Men",
-    "brand": "Nusuk",
-    "tags": "nusuk gladius, gladius extrait de parfum nigeria, woody spicy fragrance, men perfume",
+    "brand": "Armaf",
+    "tags": "armaf cool ace, armaf perfume nigeria, fresh men fragrance, citrus woody perfume",
     "image": ""
   },
   {
-    "title": "Nusuk Safa EDP 100ml",
-    "price": "₦46,000",
-    "description": "Safa by Nusuk is a fresh and elegant fragrance with delicate florals, soft musk, and subtle woody notes, making it suitable for everyday wear.",
+    "title": "Armaf Odyssey White 12ml Gift Set",
+    "price": "₦44,000",
+    "description": "Armaf Odyssey White 12ml Gift Set includes a collection of compact fragrances designed for convenience, making it an excellent gift or travel companion with elegant signature scents.",
     "category": "Unisex",
-    "brand": "Nusuk",
-    "tags": "nusuk safa, safa perfume nigeria, floral musk fragrance, unisex perfume",
+    "brand": "Armaf",
+    "tags": "armaf odyssey white gift set, armaf perfume nigeria, perfume gift set, travel fragrance",
+    "image": ""
+  },
+  {
+    "title": "French Avenue Ripple 100ml EDP",
+    "price": "₦69,000",
+    "description": "Ripple by French Avenue is a modern fragrance that combines fresh fruity notes with soft florals and warm woods for a refined and versatile scent.",
+    "category": "Unisex",
+    "brand": "French Avenue",
+    "tags": "french avenue ripple, french avenue perfume nigeria, woody fruity fragrance, unisex perfume",
+    "image": ""
+  },
+  {
+    "title": "French Avenue Grow EDP 100ml",
+    "price": "₦71,000",
+    "description": "Grow by French Avenue is a sophisticated fragrance featuring aromatic spices, smooth woods, and warm amber for a rich and long-lasting impression.",
+    "category": "Unisex",
+    "brand": "French Avenue",
+    "tags": "french avenue grow, french avenue perfume nigeria, amber woody fragrance, unisex perfume",
+    "image": ""
+  },
+  {
+    "title": "French Avenue Nabatieh 100ml",
+    "price": "₦69,000",
+    "description": "Nabatieh by French Avenue is an elegant fragrance with warm oriental accords, subtle spices, and smooth woody notes for a luxurious scent experience.",
+    "category": "Unisex",
+    "brand": "French Avenue",
+    "tags": "french avenue nabatieh, french avenue perfume nigeria, oriental fragrance, woody perfume",
+    "image": ""
+  },
+  {
+    "title": "Armaf Odyssey Black 12ml Gift Set",
+    "price": "₦44,000",
+    "description": "Armaf Odyssey Black 12ml Gift Set features a selection of compact fragrances with bold and modern character, making it perfect for gifting or carrying on the go.",
+    "category": "Men",
+    "brand": "Armaf",
+    "tags": "armaf odyssey black gift set, armaf perfume nigeria, men gift set, travel fragrance",
+    "image": ""
+  },
+  {
+    "title": "Yves Saint Laurent Libre L'Eau Nue Parfum de Peau 90ml",
+    "price": "₦245,000",
+    "description": "Libre L'Eau Nue Parfum de Peau by Yves Saint Laurent is a radiant fragrance blending fresh citrus, delicate florals, and sensual musk for a luminous and elegant finish.",
+    "category": "Women",
+    "brand": "Yves Saint Laurent",
+    "tags": "ysl libre l'eau nue parfum de peau, yves saint laurent perfume nigeria, women luxury fragrance, floral musk perfume",
+    "image": ""
+  },
+  {
+    "title": "Elie Saab Elixir Love EDP 100ml",
+    "price": "₦170,000",
+    "description": "Elixir Love by Elie Saab is a romantic fragrance featuring luminous florals, sweet fruity notes, and warm amber for a graceful and long-lasting scent.",
+    "category": "Women",
+    "brand": "Elie Saab",
+    "tags": "elie saab elixir love, elie saab perfume nigeria, floral amber fragrance, women perfume",
     "image": ""
   }
 ]
