@@ -1,56 +1,74 @@
 [
   {
-    "title": "Ahmed Al Maghribi Marj Extrait De Parfum 60ml",
-    "price": "₦98,000",
-    "description": "Marj by Ahmed Al Maghribi is a luxurious extrait de parfum featuring rich amber, precious woods, and soft floral nuances for a deep and long-lasting fragrance experience.",
+    "title": "FAAN Qasida Queen EDP 200ml",
+    "price": "₦53,000",
+    "description": "Qasida Queen by FAAN is an elegant fragrance with sweet floral notes and warm oriental accords, creating a smooth and graceful scent for special occasions.",
+    "category": "Women",
+    "brand": "FAAN",
+    "tags": "faan qasida queen, faan perfume nigeria, sweet floral fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "FAAN Qasida Bakhur EDP 200ml",
+    "price": "₦53,000",
+    "description": "Qasida Bakhur by FAAN is a warm and aromatic fragrance inspired by rich bakhur accords, blending sweet, woody, and smoky notes for a luxurious finish.",
     "category": "Unisex",
-    "brand": "Ahmed Al Maghribi",
-    "tags": "ahmed al maghribi marj, extrait de parfum nigeria, amber woody fragrance, luxury unisex perfume",
+    "brand": "FAAN",
+    "tags": "faan qasida bakhur, faan perfume nigeria, bakhur fragrance, unisex perfume",
     "image": ""
   },
   {
-    "title": "Ahmed Al Maghribi Laathani 80ml Extrait De Parfum",
-    "price": "₦99,000",
-    "description": "Laathani by Ahmed Al Maghribi is an elegant extrait de parfum blending warm spices, smooth woods, and rich oriental notes for a bold and sophisticated scent.",
+    "title": "Assaf Miss Gris EDP 100ml",
+    "price": "₦93,000",
+    "description": "Miss Gris by Assaf is a refined feminine fragrance combining soft florals, fruity accents, and warm musky notes for an elegant and lasting scent.",
+    "category": "Women",
+    "brand": "Assaf",
+    "tags": "assaf miss gris, assaf perfume nigeria, feminine fragrance, floral perfume",
+    "image": ""
+  },
+  {
+    "title": "Assaf Attacks EDP 150ml",
+    "price": "₦93,000",
+    "description": "Attacks by Assaf is a bold fragrance featuring aromatic spices, rich woods, and warm amber notes for a confident and distinctive scent.",
+    "category": "Men",
+    "brand": "Assaf",
+    "tags": "assaf attacks, assaf perfume nigeria, woody spicy fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Assaf Risk Comete EDP 150ml",
+    "price": "₦93,000",
+    "description": "Risk Comete by Assaf is a sophisticated fragrance with fresh aromatic notes, smooth woods, and warm accords that create a confident everyday scent.",
+    "category": "Men",
+    "brand": "Assaf",
+    "tags": "assaf risk comete, assaf perfume nigeria, aromatic woody fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Assaf Wild Colt Bakhur EDP 150ml",
+    "price": "₦93,000",
+    "description": "Wild Colt Bakhur by Assaf is a rich and smoky fragrance blending warm spices, woods, and sweet bakhur accords for a powerful scent experience.",
     "category": "Unisex",
-    "brand": "Ahmed Al Maghribi",
-    "tags": "ahmed al maghribi laathani, oriental perfume nigeria, extrait de parfum, unisex fragrance",
+    "brand": "Assaf",
+    "tags": "assaf wild colt bakhur, assaf perfume nigeria, bakhur fragrance, unisex perfume",
     "image": ""
   },
   {
-    "title": "Lattafa Mishlah 100ml EDP",
-    "price": "₦35,000",
-    "description": "Mishlah by Lattafa is a refined fragrance combining aromatic spices, woody accords, and soft amber for a smooth scent suitable for everyday wear.",
-    "category": "Men",
-    "brand": "Lattafa",
-    "tags": "lattafa mishlah, lattafa perfume nigeria, woody spicy fragrance, men perfume",
-    "image": ""
-  },
-  {
-    "title": "Bvlgari Pour Homme EDP 100ml",
-    "price": "₦179,000",
-    "description": "Bvlgari Pour Homme Eau de Parfum is a timeless masculine fragrance featuring fresh citrus, aromatic tea accords, and elegant woods for a clean and sophisticated finish.",
-    "category": "Men",
-    "brand": "Bvlgari",
-    "tags": "bvlgari pour homme edp, bvlgari perfume nigeria, fresh woody fragrance, men perfume",
-    "image": ""
-  },
-  {
-    "title": "Issey Miyake L'eau d'Issey Eau & Cedre 100ml",
-    "price": "₦118,000",
-    "description": "L'Eau d'Issey Eau & Cedre by Issey Miyake is a fresh woody fragrance with vibrant citrus notes, aromatic cedarwood, and earthy undertones for modern everyday wear.",
-    "category": "Men",
-    "brand": "Issey Miyake",
-    "tags": "issey miyake eau and cedre, issey miyake perfume nigeria, woody citrus fragrance, men perfume",
-    "image": ""
-  },
-  {
-    "title": "North Stag Hypnotic Oud Quinze XV Extrait 100ml",
-    "price": "₦48,000",
-    "description": "Hypnotic Oud Quinze XV by North Stag is a rich extrait fragrance blending oud, warm spices, and smoky woods to create a bold and captivating scent.",
+    "title": "Assaf Aura 35 EDP 150ml",
+    "price": "₦93,000",
+    "description": "Aura 35 by Assaf is a smooth and elegant fragrance combining fresh florals, soft woods, and warm musky notes for a polished scent.",
     "category": "Unisex",
-    "brand": "North Stag",
-    "tags": "north stag hypnotic oud quinze xv, north stag perfume nigeria, oud extrait, unisex fragrance",
+    "brand": "Assaf",
+    "tags": "assaf aura 35, assaf perfume nigeria, elegant fragrance, unisex perfume",
+    "image": ""
+  },
+  {
+    "title": "Assaf Strike Black EDP 125ml",
+    "price": "₦93,000",
+    "description": "Strike Black by Assaf is a deep and masculine fragrance featuring spicy aromatics, dark woods, and warm amber for a bold and memorable finish.",
+    "category": "Men",
+    "brand": "Assaf",
+    "tags": "assaf strike black, assaf perfume nigeria, dark woody fragrance, men perfume",
     "image": ""
   }
 ]
