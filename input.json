@@ -1,74 +1,137 @@
 [
   {
-    "title": "FAAN Qasida Queen EDP 200ml",
-    "price": "₦53,000",
-    "description": "Qasida Queen by FAAN is an elegant fragrance with sweet floral notes and warm oriental accords, creating a smooth and graceful scent for special occasions.",
+    "title": "Armaf Beach Party EDP 100ml",
+    "price": "₦46,000",
+    "description": "Beach Party by Armaf is a fresh and uplifting fragrance with bright citrus, aquatic notes, and smooth woody accords. It creates a clean and refreshing scent.",
+    "category": "Unisex",
+    "brand": "Armaf",
+    "tags": "armaf beach party, armaf perfume nigeria, fresh aquatic fragrance, unisex perfume",
+    "image": ""
+  },
+  {
+    "title": "Zimaya Kibria Supremo EDP 100ml",
+    "price": "₦38,000",
+    "description": "Kibria Supremo by Zimaya is a refined fragrance with fresh aromatic notes, warm spices, and smooth woody accords. It offers a confident and elegant scent.",
+    "category": "Men",
+    "brand": "Zimaya",
+    "tags": "zimaya kibria supremo, zimaya perfume nigeria, woody spicy fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Zimaya Oscar Platinum 100ml",
+    "price": "₦38,000",
+    "description": "Oscar Platinum by Zimaya is a sophisticated fragrance with fresh citrus, aromatic notes, and smooth woods. It creates a polished scent suitable for daily wear.",
+    "category": "Men",
+    "brand": "Zimaya",
+    "tags": "zimaya oscar platinum, zimaya perfume nigeria, fresh woody fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Zimaya Kibria Glory EDP 100ml",
+    "price": "₦38,000",
+    "description": "Kibria Glory by Zimaya is an elegant fragrance blending sweet accords, soft florals, and warm woods. It leaves a smooth and inviting trail.",
     "category": "Women",
-    "brand": "FAAN",
-    "tags": "faan qasida queen, faan perfume nigeria, sweet floral fragrance, women perfume",
+    "brand": "Zimaya",
+    "tags": "zimaya kibria glory, zimaya perfume nigeria, sweet floral fragrance, women perfume",
     "image": ""
   },
   {
-    "title": "FAAN Qasida Bakhur EDP 200ml",
-    "price": "₦53,000",
-    "description": "Qasida Bakhur by FAAN is a warm and aromatic fragrance inspired by rich bakhur accords, blending sweet, woody, and smoky notes for a luxurious finish.",
+    "title": "Tommy Hilfiger Impact Parfum 100ml",
+    "price": "₦120,000",
+    "description": "Impact Parfum by Tommy Hilfiger is a confident masculine fragrance with fresh citrus, aromatic herbs, and warm woody notes. It delivers a clean and sophisticated finish.",
+    "category": "Men",
+    "brand": "Tommy Hilfiger",
+    "tags": "tommy hilfiger impact parfum, tommy hilfiger perfume nigeria, masculine fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Rosendo Mateu No 5 Elixir Parfum 100ml",
+    "price": "₦302,000",
+    "description": "Rosendo Mateu No 5 Elixir Parfum is a rich and sophisticated fragrance with elegant florals, warm amber, and smooth woody accords. It creates a luxurious scent.",
     "category": "Unisex",
-    "brand": "FAAN",
-    "tags": "faan qasida bakhur, faan perfume nigeria, bakhur fragrance, unisex perfume",
+    "brand": "Rosendo Mateu",
+    "tags": "rosendo mateu no 5, rosendo mateu perfume nigeria, luxury fragrance, unisex perfume",
     "image": ""
   },
   {
-    "title": "Assaf Miss Gris EDP 100ml",
-    "price": "₦93,000",
-    "description": "Miss Gris by Assaf is a refined feminine fragrance combining soft florals, fruity accents, and warm musky notes for an elegant and lasting scent.",
+    "title": "Issey Miyake Le Sel D'Issey Parfum 100ml",
+    "price": "₦198,000",
+    "description": "Le Sel D'Issey Parfum by Issey Miyake is a fresh and mineral fragrance with marine notes, aromatic accents, and warm woods. It feels clean and modern.",
+    "category": "Men",
+    "brand": "Issey Miyake",
+    "tags": "issey miyake le sel d'issey, issey miyake perfume nigeria, marine fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Ferragamo Signorina Romantica EDP 100ml",
+    "price": "₦140,000",
+    "description": "Signorina Romantica by Ferragamo is a feminine fragrance with delicate florals, creamy sweetness, and soft musky notes. It creates a graceful and romantic scent.",
     "category": "Women",
-    "brand": "Assaf",
-    "tags": "assaf miss gris, assaf perfume nigeria, feminine fragrance, floral perfume",
+    "brand": "Ferragamo",
+    "tags": "ferragamo signorina romantica, ferragamo perfume nigeria, floral fragrance, women perfume",
     "image": ""
   },
   {
-    "title": "Assaf Attacks EDP 150ml",
-    "price": "₦93,000",
-    "description": "Attacks by Assaf is a bold fragrance featuring aromatic spices, rich woods, and warm amber notes for a confident and distinctive scent.",
+    "title": "Narciso Rodriguez All of Me Floral EDP 90ml",
+    "price": "₦198,000",
+    "description": "All of Me Floral by Narciso Rodriguez is a fresh feminine fragrance with delicate flowers, soft musk, and gentle fruity sweetness. It leaves an elegant trail.",
+    "category": "Women",
+    "brand": "Narciso Rodriguez",
+    "tags": "narciso rodriguez all of me floral, narciso perfume nigeria, floral musk fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Narciso Rodriguez All of Me Essential EDP 90ml",
+    "price": "₦208,000",
+    "description": "All of Me Essential by Narciso Rodriguez is a refined floral musk fragrance with soft flowers, creamy notes, and clean musk. It offers an elegant everyday scent.",
+    "category": "Women",
+    "brand": "Narciso Rodriguez",
+    "tags": "narciso rodriguez all of me essential, narciso perfume nigeria, floral musk fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Zimaya Stallion EDP 100ml",
+    "price": "₦34,000",
+    "description": "Stallion by Zimaya is a bold fragrance with fresh aromatic notes, warm spices, and smooth woody accords. It creates a confident and masculine presence.",
     "category": "Men",
-    "brand": "Assaf",
-    "tags": "assaf attacks, assaf perfume nigeria, woody spicy fragrance, men perfume",
+    "brand": "Zimaya",
+    "tags": "zimaya stallion, zimaya perfume nigeria, masculine fragrance, woody perfume",
     "image": ""
   },
   {
-    "title": "Assaf Risk Comete EDP 150ml",
-    "price": "₦93,000",
-    "description": "Risk Comete by Assaf is a sophisticated fragrance with fresh aromatic notes, smooth woods, and warm accords that create a confident everyday scent.",
+    "title": "Zimaya AL Embratur Intense Eau D parfum 100ml Spray",
+    "price": "₦29,000",
+    "description": "AL Embratur Intense by Zimaya is a warm and captivating fragrance with aromatic notes, rich spices, and smooth woods. It creates a bold and lasting impression.",
     "category": "Men",
-    "brand": "Assaf",
-    "tags": "assaf risk comete, assaf perfume nigeria, aromatic woody fragrance, men perfume",
+    "brand": "Zimaya",
+    "tags": "zimaya al embratur intense, zimaya perfume nigeria, warm spicy fragrance, men perfume",
     "image": ""
   },
   {
-    "title": "Assaf Wild Colt Bakhur EDP 150ml",
-    "price": "₦93,000",
-    "description": "Wild Colt Bakhur by Assaf is a rich and smoky fragrance blending warm spices, woods, and sweet bakhur accords for a powerful scent experience.",
+    "title": "Zimaya Royal Paragon Eau de Parfum 100ml",
+    "price": "₦27,000",
+    "description": "Royal Paragon by Zimaya is an elegant fragrance with fresh aromatic notes, soft sweetness, and smooth woody accords. It offers a polished scent for any occasion.",
     "category": "Unisex",
-    "brand": "Assaf",
-    "tags": "assaf wild colt bakhur, assaf perfume nigeria, bakhur fragrance, unisex perfume",
+    "brand": "Zimaya",
+    "tags": "zimaya royal paragon, zimaya perfume nigeria, aromatic woody fragrance, unisex perfume",
     "image": ""
   },
   {
-    "title": "Assaf Aura 35 EDP 150ml",
-    "price": "₦93,000",
-    "description": "Aura 35 by Assaf is a smooth and elegant fragrance combining fresh florals, soft woods, and warm musky notes for a polished scent.",
-    "category": "Unisex",
-    "brand": "Assaf",
-    "tags": "assaf aura 35, assaf perfume nigeria, elegant fragrance, unisex perfume",
-    "image": ""
-  },
-  {
-    "title": "Assaf Strike Black EDP 125ml",
-    "price": "₦93,000",
-    "description": "Strike Black by Assaf is a deep and masculine fragrance featuring spicy aromatics, dark woods, and warm amber for a bold and memorable finish.",
+    "title": "Zimaya Al Embratur Intense EDP 100ml",
+    "price": "₦29,000",
+    "description": "Al Embratur Intense by Zimaya is a bold fragrance combining warm spices, aromatic notes, and rich woods. It leaves a deep and confident trail.",
     "category": "Men",
-    "brand": "Assaf",
-    "tags": "assaf strike black, assaf perfume nigeria, dark woody fragrance, men perfume",
+    "brand": "Zimaya",
+    "tags": "zimaya al embratur intense edp, zimaya perfume nigeria, spicy woody fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Armaf Club de Nuit Iconic Extrait de Parfum 70ml",
+    "price": "₦69,000",
+    "description": "Club de Nuit Iconic Extrait de Parfum by Armaf is a fresh and sophisticated fragrance with citrus, aromatic herbs, and smooth woody notes.",
+    "category": "Men",
+    "brand": "Armaf",
+    "tags": "armaf club de nuit iconic extrait, armaf perfume nigeria, fresh woody fragrance, men perfume",
     "image": ""
   }
 ]
