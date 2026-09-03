@@ -1,38 +1,137 @@
 [
   {
-    "title": "Rayhaan Tropical Vibe EDP 100ml",
-    "price": "₦44,000",
-    "description": "Tropical Vibe by Rayhaan is a refreshing fragrance with juicy tropical fruits, bright citrus, and smooth woody notes. It creates a vibrant and uplifting scent.",
+    "title": "Khadlaj Sensuos Night EDP 100ml",
+    "price": "₦32,000",
+    "description": "Khadlaj Sensuos Night EDP 100ml is a captivating fragrance with warm, smooth, and sensual notes. It creates a confident scent with a refined and lasting presence.",
     "category": "Unisex",
-    "brand": "Rayhaan",
-    "tags": "rayhaan tropical vibe, rayhaan perfume nigeria, tropical fragrance, unisex perfume",
+    "brand": "Khadlaj",
+    "tags": "khadlaj sensuos night, khadlaj perfume nigeria, sensual fragrance, unisex perfume",
     "image": ""
   },
   {
-    "title": "Rayhaan Jungle Vibe EDP 100ml",
-    "price": "₦44,000",
-    "description": "Jungle Vibe by Rayhaan is a fresh and adventurous fragrance with green accords, aromatic notes, and smooth woods. It offers a clean and energetic scent.",
+    "title": "Khadlaj Maya 20ml Oil",
+    "price": "₦25,000",
+    "description": "Khadlaj Maya 20ml Oil offers a rich and concentrated fragrance experience in a convenient oil format. Its smooth scent is ideal for those who enjoy lasting perfume oils.",
     "category": "Unisex",
-    "brand": "Rayhaan",
-    "tags": "rayhaan jungle vibe, rayhaan perfume nigeria, fresh green fragrance, unisex perfume",
+    "brand": "Khadlaj",
+    "tags": "khadlaj maya oil, khadlaj perfume oil nigeria, concentrated perfume oil, unisex fragrance",
     "image": ""
   },
   {
-    "title": "Fragrance World Signature Brown",
-    "price": "₦95,000",
-    "description": "Signature Brown by Fragrance World is a warm and sophisticated fragrance with rich woody notes, soft spices, and smooth amber. It creates an elegant impression.",
-    "category": "Unisex",
-    "brand": "Fragrance World",
-    "tags": "fragrance world signature brown, fragrance world perfume nigeria, woody amber fragrance, unisex perfume",
+    "title": "Khadlaj Nuha Vanilla Pearl 85ml EDP",
+    "price": "₦27,000",
+    "description": "Khadlaj Nuha Vanilla Pearl 85ml EDP is a soft and creamy fragrance with sweet vanilla and smooth comforting accords. It creates a warm and inviting scent.",
+    "category": "Women",
+    "brand": "Khadlaj",
+    "tags": "khadlaj nuha vanilla pearl, khadlaj perfume nigeria, vanilla fragrance, women perfume",
     "image": ""
   },
   {
-    "title": "Fragrance World Signature White",
-    "price": "₦95,000",
-    "description": "Signature White by Fragrance World is a clean and elegant fragrance with fresh citrus, soft florals, and smooth musky notes. It offers a refined everyday scent.",
-    "category": "Unisex",
-    "brand": "Fragrance World",
-    "tags": "fragrance world signature white, fragrance world perfume nigeria, fresh floral fragrance, unisex perfume",
+    "title": "Khadlaj Nuha 85ml EDP",
+    "price": "₦27,000",
+    "description": "Khadlaj Nuha 85ml EDP is an elegant fragrance with soft floral, sweet, and creamy accords. It offers a smooth scent that works beautifully for everyday wear.",
+    "category": "Women",
+    "brand": "Khadlaj",
+    "tags": "khadlaj nuha, khadlaj perfume nigeria, sweet floral fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Khadlaj La Fede Coveted Shade EDP 100ml",
+    "price": "₦26,000",
+    "description": "Khadlaj La Fede Coveted Shade EDP 100ml is a sophisticated fragrance with warm, aromatic, and woody accords. It creates a smooth and confident scent.",
+    "category": "Men",
+    "brand": "Khadlaj",
+    "tags": "khadlaj la fede coveted shade, khadlaj perfume nigeria, woody fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Khadlaj La Fede Coveted Diamond EDP 100ml",
+    "price": "₦26,000",
+    "description": "Khadlaj La Fede Coveted Diamond EDP 100ml blends fresh, aromatic, and woody notes into a refined fragrance. It offers a clean and confident scent.",
+    "category": "Men",
+    "brand": "Khadlaj",
+    "tags": "khadlaj la fede coveted diamond, khadlaj perfume nigeria, aromatic woody fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Khadlaj Shiyaaka Woman EDP 100ml",
+    "price": "₦27,000",
+    "description": "Khadlaj Shiyaaka Woman EDP 100ml is a feminine fragrance with sweet floral notes and soft musky accords. It leaves a graceful and pleasant scent.",
+    "category": "Women",
+    "brand": "Khadlaj",
+    "tags": "khadlaj shiyaaka woman, khadlaj perfume nigeria, floral fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Khadlaj Shiyaaka Shadow EDP 100ml",
+    "price": "₦27,000",
+    "description": "Khadlaj Shiyaaka Shadow EDP 100ml offers a smooth blend of aromatic, warm, and woody notes. It creates a mysterious and confident fragrance.",
+    "category": "Men",
+    "brand": "Khadlaj",
+    "tags": "khadlaj shiyaaka shadow, khadlaj perfume nigeria, warm woody fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Khadlaj Shiyaaka Men EDP 100ml",
+    "price": "₦27,000",
+    "description": "Khadlaj Shiyaaka Men EDP 100ml is a masculine fragrance with fresh aromatic notes, warm spices, and smooth woods. It creates a confident everyday scent.",
+    "category": "Men",
+    "brand": "Khadlaj",
+    "tags": "khadlaj shiyaaka men, khadlaj perfume nigeria, masculine fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Dolce & Gabbana K Parfum 100ml",
+    "price": "₦269,000",
+    "description": "Dolce & Gabbana K Parfum 100ml is a refined masculine fragrance with aromatic herbs, warm spices, and rich woody notes. It creates a confident and sophisticated presence.",
+    "category": "Men",
+    "brand": "Dolce & Gabbana",
+    "tags": "dolce gabbana k parfum, dolce gabbana perfume nigeria, masculine fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Dolce & Gabbana Q Parfum 100ml",
+    "price": "₦310,000",
+    "description": "Dolce & Gabbana Q Parfum 100ml is an elegant feminine fragrance with fruity, floral, and warm woody accords. It creates a sophisticated and memorable scent.",
+    "category": "Women",
+    "brand": "Dolce & Gabbana",
+    "tags": "dolce gabbana q parfum, dolce gabbana perfume nigeria, floral fruity fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Dolce & Gabbana Light Blue Love is Love EDT Man 100ml",
+    "price": "₦140,000",
+    "description": "Dolce & Gabbana Light Blue Love is Love EDT Man 100ml is a fresh and vibrant fragrance with citrus, aromatic, and woody notes. It feels clean and energetic.",
+    "category": "Men",
+    "brand": "Dolce & Gabbana",
+    "tags": "dolce gabbana light blue love is love man, dolce gabbana perfume nigeria, fresh citrus fragrance, men perfume",
+    "image": ""
+  },
+  {
+    "title": "Dolce & Gabbana Light Blue Love is Love EDT Women 100ml",
+    "price": "₦151,000",
+    "description": "Dolce & Gabbana Light Blue Love is Love EDT Women 100ml is a bright feminine fragrance with fresh fruity, floral, and soft musky notes. It offers a lively scent.",
+    "category": "Women",
+    "brand": "Dolce & Gabbana",
+    "tags": "dolce gabbana light blue love is love women, dolce gabbana perfume nigeria, fruity floral fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Khadlaj Nuha Bonbon 85ml EDP",
+    "price": "₦27,000",
+    "description": "Khadlaj Nuha Bonbon 85ml EDP is a sweet and playful fragrance with creamy, fruity, and soft floral accords. It creates a warm and delightful scent.",
+    "category": "Women",
+    "brand": "Khadlaj",
+    "tags": "khadlaj nuha bonbon, khadlaj perfume nigeria, sweet creamy fragrance, women perfume",
+    "image": ""
+  },
+  {
+    "title": "Khadlaj Titan EDP 100ml",
+    "price": "₦34,000",
+    "description": "Khadlaj Titan EDP 100ml is a bold fragrance with fresh aromatic notes, warm spices, and smooth woody accords. It delivers a confident and lasting impression.",
+    "category": "Men",
+    "brand": "Khadlaj",
+    "tags": "khadlaj titan, khadlaj perfume nigeria, spicy woody fragrance, men perfume",
     "image": ""
   }
 ]
