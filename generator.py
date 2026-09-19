@@ -37,11 +37,8 @@ for idx, product in enumerate(products):
     timestamp = (BASE_DATETIME + timedelta(minutes=idx * 4)).strftime("%Y%m%d_%H%M%S")
     handle = product["title"].lower().replace(" ", "-").replace("'", "").replace(",", "").replace(".", "")
     sku = f'{product["brand"]}_{timestamp}'
-    seo_title = f'Buy {product["title"]} Online In Nigeria'
-    seo_description = (
-        f'Shop for {product["title"]} Online at best prices on TheScentsStore.com. '
-        f'Large selection of perfumes by {product["brand"]}. Order now!'
-    )
+    seo_title = product["meta title"]
+    seo_description = product["meta description"]
 
     row = [
     handle,
