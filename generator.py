@@ -12,7 +12,6 @@ FIXED_WEIGHT_GRAMS = 500  # 0.5kg = 500g
 BASE_DATETIME = datetime.now()
 PUBLISH_STATUS = "TRUE"
 STATUS = "active"
-VENDOR_NAME = "The Scents Store"
 OPTION1_NAME = "Title"
 OPTION1_VALUE = "Default Title"
 DEFAULT_CATEGORY = "Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum"
@@ -35,36 +34,45 @@ rows = []
 # === BUILD EACH PRODUCT ROW ===
 for idx, product in enumerate(products):
     timestamp = (BASE_DATETIME + timedelta(minutes=idx * 4)).strftime("%Y%m%d_%H%M%S")
-    handle = product["title"].lower().replace(" ", "-").replace("'", "").replace(",", "").replace(".", "")
+
+    handle = (
+        product["title"]
+        .lower()
+        .replace(" ", "-")
+        .replace("'", "")
+        .replace(",", "")
+        .replace(".", "")
+    )
+
     sku = f'{product["brand"]}_{timestamp}'
     seo_title = product["meta title"]
     seo_description = product["meta description"]
 
     row = [
-    handle,
-    product["title"],
-    product["description"],
-    VENDOR_NAME,
-    DEFAULT_CATEGORY,
-    "",  # Type left blank
-    product["tags"],
-    PUBLISH_STATUS,
-    OPTION1_NAME,
-    OPTION1_VALUE,
-    sku,
-    str(FIXED_WEIGHT_GRAMS),
-    "shopify",
-    str(FIXED_QUANTITY),
-    "deny",
-    "manual",
-    str(product["price"]),
-    "TRUE",
-    "TRUE",
-    product.get("image", ""),  # ✅ Now pulls image URL from JSON
-    seo_title,
-    seo_description,
-    STATUS
-]
+        handle,
+        product["title"],
+        product["description"],
+        product["brand"],  # Vendor is now the brand name
+        DEFAULT_CATEGORY,
+        "",  # Type left blank
+        product["tags"],
+        PUBLISH_STATUS,
+        OPTION1_NAME,
+        OPTION1_VALUE,
+        sku,
+        str(FIXED_WEIGHT_GRAMS),
+        "shopify",
+        str(FIXED_QUANTITY),
+        "deny",
+        "manual",
+        str(product["price"]),
+        "TRUE",
+        "TRUE",
+        product.get("image", ""),
+        seo_title,
+        seo_description,
+        STATUS
+    ]
 
     rows.append(row)
 
