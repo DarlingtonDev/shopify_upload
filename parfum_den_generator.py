@@ -12,7 +12,7 @@ PRODUCT_CATEGORY = "Health & Beauty > Personal Care > Cosmetics > Perfumes & Col
 PRODUCT_TYPE = "Perfume"
 
 PUBLISHED = "TRUE"
-STATUS = "active"
+STATUS = "Active"
 
 OPTION1_NAME = "Size"
 
@@ -32,7 +32,7 @@ IMAGE_POSITION = "1"
 GIFT_CARD = "FALSE"
 
 GOOGLE_PRODUCT_CATEGORY = "Health & Beauty > Fragrances > Perfume"
-GOOGLE_CONDITION = "new"
+GOOGLE_CONDITION = "New"
 
 # SKU settings
 SKU_PREFIX = "ParfumDen"
